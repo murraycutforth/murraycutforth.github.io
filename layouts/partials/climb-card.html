@@ -1,0 +1,13 @@
+<article class="climb-card">
+  <a href="{{ .RelPermalink }}">
+    <div class="climb-card-content">
+      <h3>{{ .Title }}</h3>
+      <div class="climb-meta">
+        {{ with .Params.grade }}<span class="grade">{{ . }}</span>{{ end }}
+        {{ with .Params.location }}<span class="location">{{ . }}</span>{{ end }}
+        <time>{{ .Params.date | time.Format "January 2006" }}</time>
+      </div>
+      {{ with .Params.excerpt }}<p class="excerpt">{{ . }}</p>{{ end }}
+    </div>
+  </a>
+</article>

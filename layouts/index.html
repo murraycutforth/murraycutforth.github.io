@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="hero"></section>
+
+<section class="map-section">
+  {{- partial "map.html" . -}}
+</section>
+
+<section class="home-two-col">
+  <div class="about-col">
+    <img src="/images/profile.jpg" alt="Murray Cutforth" class="about-photo">
+    <div class="about-text">
+      <h2>About</h2>
+      <p>A collection of writing about winter climbing in Scotland. This sport seems to tap into quite a deep aspect of my psyche, although defining it as just a sport isn't really fair. If you add up the days I've spent winter climbing it comes to almost 6 months at this point. A few of the best ones are described here. </p>
+    </div>
+  </div>
+  <div class="recent-climbs-col">
+    <h2>Recent climbs</h2>
+    <div class="climb-grid">
+      {{ range (where .Site.RegularPages "Section" "climbs").ByDate.Reverse }}
+        {{- partial "climb-card.html" . -}}
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

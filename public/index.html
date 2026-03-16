@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="generator" content="Hugo 0.157.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scottish Winter Climbing</title>
+<meta name="description" content="Stories from Scottish winter climbing routes">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+3:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="/css/main.css">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+</head>
+<body><header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="site-title">Murray Cutforth — Scottish Winter Climbing</a>
+  </div>
+</header>
+<main>
+<section class="hero"></section>
+
+<section class="map-section"><div id="map"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+  var climbs = [{"date":"March 2023","grade":"VIII, 8","latitude":57.44696,"location":"Coire Nan Fhamhair, Beinn Bhan","longitude":-5.664378,"title":"The Godfather","url":"/climbs/the-godfather/"},{"date":"March 2023","grade":"VIII, 8","latitude":57.248,"location":"Am Basteir, Skye","longitude":-6.227,"title":"Hung, Drawn, and Quartered","url":"/climbs/hung-drawn-and-quartered/"},{"date":"March 2023","grade":"VII, 8","latitude":57.067,"location":"Carn Etchachan, Cairngorms","longitude":-3.617,"title":"Rumplestiltskin","url":"/climbs/rumplestiltskin/"},{"date":"December 2022","grade":"VII, 8","latitude":57.4845204,"location":"Mainreachan Buttress, Fuar Tholl","longitude":-5.3906677,"title":"Supersleuth","url":"/climbs/supersleuth/"},{"date":"February 2023","grade":"VI, 6","latitude":57.068,"location":"Carn Etchachan, Cairngorms","longitude":-3.615,"title":"Nathrach Dubh","url":"/climbs/nathrach-dubh/"},{"date":"February 2023","grade":"IX, 9","latitude":57.077,"location":"Coire an Lochain, Cairngorms","longitude":-3.647,"title":"The Gathering","url":"/climbs/the-gathering/"},{"date":"January 2023","grade":"VII, 7","latitude":56.652,"location":"Buachaille Etive Mor","longitude":-5.05,"title":"Raven's Edge","url":"/climbs/ravens-edge/"},{"date":"March 2022","grade":"VI, 5","latitude":56.797,"location":"Orion Face, Ben Nevis","longitude":-5.003,"title":"Slav Route","url":"/climbs/slav-route/"},{"date":"February 2022","grade":"VII, 8","latitude":57.078,"location":"Coire an Lochain, Cairngorms","longitude":-3.645,"title":"Ventricle","url":"/climbs/ventricle/"},{"date":"February 2022","grade":"VII, 7","latitude":56.658,"location":"Lost Valley Buttress, Glencoe","longitude":-5.055,"title":"Neanderthal","url":"/climbs/neanderthal/"},{"date":"December 2020","grade":"VII, 8","latitude":56.8,"location":"Coire na Ciste, Ben Nevis","longitude":-5.008,"title":"Sioux Wall","url":"/climbs/sioux-wall/"},{"date":"January 2020","grade":"VII, 7","latitude":56.657,"location":"Church Door Buttress, Bidean Nam Bian","longitude":-5.075,"title":"Un Poco Loco","url":"/climbs/un-poco-loco/"},{"date":"November 2019","grade":"VII, 7","latitude":57.076,"location":"Coire an Lochain, Cairngorms","longitude":-3.649,"title":"Auricle and Ventriloquist","url":"/climbs/auricle-and-ventriloquist/"}];
+</script>
+<script src="/js/map.js"></script>
+</section>
+
+<section class="home-two-col">
+  <div class="about-col">
+    <img src="/images/profile.jpg" alt="Murray Cutforth" class="about-photo">
+    <div class="about-text">
+      <h2>About</h2>
+      <p>A collection of writing about winter climbing in Scotland. This sport seems to tap into quite a deep aspect of my psyche, although defining it as just a sport isn't really fair. If you add up the days I've spent winter climbing it comes to almost 6 months at this point. A few of the best ones are described here. </p>
+    </div>
+  </div>
+  <div class="recent-climbs-col">
+    <h2>Recent climbs</h2>
+    <div class="climb-grid">
+      <article class="climb-card">
+  <a href="/climbs/the-godfather/">
+    <div class="climb-card-content">
+      <h3>The Godfather</h3>
+      <div class="climb-meta">
+        <span class="grade">VIII, 8</span>
+        <span class="location">Coire Nan Fhamhair, Beinn Bhan</span>
+        <time>March 2023</time>
+      </div>
+      <p class="excerpt">The Godfather has some of the richest history of all modern winter climbs in Scotland.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/hung-drawn-and-quartered/">
+    <div class="climb-card-content">
+      <h3>Hung, Drawn, and Quartered</h3>
+      <div class="climb-meta">
+        <span class="grade">VIII, 8</span>
+        <span class="location">Am Basteir, Skye</span>
+        <time>March 2023</time>
+      </div>
+      <p class="excerpt">Another one of those &#39;best day of the winter&#39; days, on the incredible Am Basteir.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/rumplestiltskin/">
+    <div class="climb-card-content">
+      <h3>Rumplestiltskin</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 8</span>
+        <span class="location">Carn Etchachan, Cairngorms</span>
+        <time>March 2023</time>
+      </div>
+      <p class="excerpt">A short post to rave about the quality of a little-known route.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/nathrach-dubh/">
+    <div class="climb-card-content">
+      <h3>Nathrach Dubh</h3>
+      <div class="climb-meta">
+        <span class="grade">VI, 6</span>
+        <span class="location">Carn Etchachan, Cairngorms</span>
+        <time>February 2023</time>
+      </div>
+      <p class="excerpt">Some photos from one of the best days of the winter at Carn Etchachan.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/the-gathering/">
+    <div class="climb-card-content">
+      <h3>The Gathering</h3>
+      <div class="climb-meta">
+        <span class="grade">IX, 9</span>
+        <span class="location">Coire an Lochain, Cairngorms</span>
+        <time>February 2023</time>
+      </div>
+      <p class="excerpt">What follows is just a move-by-move account of an awesome route.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/ravens-edge/">
+    <div class="climb-card-content">
+      <h3>Raven&#39;s Edge</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 7</span>
+        <span class="location">Buachaille Etive Mor</span>
+        <time>January 2023</time>
+      </div>
+      <p class="excerpt">7AM: Alarms blare in unison throughout the Caol climbing commune.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/supersleuth/">
+    <div class="climb-card-content">
+      <h3>Supersleuth</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 8</span>
+        <span class="location">Mainreachan Buttress, Fuar Tholl</span>
+        <time>December 2022</time>
+      </div>
+      <p class="excerpt">Fuar Tholl hosts a couple of the mythical big crags in the North West.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/slav-route/">
+    <div class="climb-card-content">
+      <h3>Slav Route</h3>
+      <div class="climb-meta">
+        <span class="grade">VI, 5</span>
+        <span class="location">Orion Face, Ben Nevis</span>
+        <time>March 2022</time>
+      </div>
+      <p class="excerpt">Much of the best writing about climbing isn&#39;t really about the climbing at all.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/ventricle/">
+    <div class="climb-card-content">
+      <h3>Ventricle</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 8</span>
+        <span class="location">Coire an Lochain, Cairngorms</span>
+        <time>February 2022</time>
+      </div>
+      <p class="excerpt">Rob and I wandered in to Lochan for an easy day, and stumbled out well after dark.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/neanderthal/">
+    <div class="climb-card-content">
+      <h3>Neanderthal</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 7</span>
+        <span class="location">Lost Valley Buttress, Glencoe</span>
+        <time>February 2022</time>
+      </div>
+      <p class="excerpt">The last of the big three grade VIIs in Glencoe for me and Will.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/sioux-wall/">
+    <div class="climb-card-content">
+      <h3>Sioux Wall</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 8</span>
+        <span class="location">Coire na Ciste, Ben Nevis</span>
+        <time>December 2020</time>
+      </div>
+      <p class="excerpt">I must have walked past the sheer face at least ten times before even imagining that a winter route would find a way up there.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/un-poco-loco/">
+    <div class="climb-card-content">
+      <h3>Un Poco Loco</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 7</span>
+        <span class="location">Church Door Buttress, Bidean Nam Bian</span>
+        <time>January 2020</time>
+      </div>
+      <p class="excerpt">January was a tough month for winter climbing, but this route was a belter.</p>
+    </div>
+  </a>
+</article>
+<article class="climb-card">
+  <a href="/climbs/auricle-and-ventriloquist/">
+    <div class="climb-card-content">
+      <h3>Auricle and Ventriloquist</h3>
+      <div class="climb-meta">
+        <span class="grade">VII, 7</span>
+        <span class="location">Coire an Lochain, Cairngorms</span>
+        <time>November 2019</time>
+      </div>
+      <p class="excerpt">Reflecting on the first few months of the Scottish winter season.</p>
+    </div>
+  </a>
+</article>
+
+    </div>
+  </div>
+</section>
+
+  </main><footer class="site-footer">
+  <div class="footer-inner">
+    <p>&copy; 2026 Murray Cutforth</p>
+  </div>
+</footer>
+</body>
+</html>

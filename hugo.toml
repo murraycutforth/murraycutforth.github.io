@@ -1,0 +1,15 @@
+baseURL = 'https://murraycutforth.github.io/'
+languageCode = 'en-gb'
+title = 'Scottish Winter Climbing'
+
+[params]
+  description = 'Stories from Scottish winter climbing routes'
+  author = 'Murray Cutforth'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = ['HTML']

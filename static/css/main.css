@@ -1,0 +1,290 @@
+/* ── Reset & Base ── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --slate: #2c3e50;
+  --stone: #8d8680;
+  --ice: #f4f6f8;
+  --burnt-orange: #c0622e;
+  --cream: #faf8f5;
+  --text: #333;
+  --text-light: #666;
+  --max-width: 740px;
+  --wide-width: 1000px;
+}
+
+html { font-size: 18px; }
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  color: var(--text);
+  background: var(--cream);
+  line-height: 1.7;
+}
+
+a { color: var(--burnt-orange); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; display: block; border-radius: 4px; }
+
+/* ── Header ── */
+.site-header {
+  border-bottom: 1px solid #e0dcd8;
+  background: var(--cream);
+}
+.header-inner {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.site-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: var(--slate);
+}
+.site-title:hover { text-decoration: none; }
+nav a {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-light);
+}
+
+/* ── Hero ── */
+.hero {
+  background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+              url('/images/hero.jpg') center 65%/cover no-repeat;
+  background-color: var(--slate);
+  min-height: 70vh;
+}
+.hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.8rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+.hero p {
+  font-size: 1.1rem;
+  font-weight: 300;
+  opacity: 0.85;
+}
+
+/* ── Map markers ── */
+.climb-marker {
+  width: 16px;
+  height: 16px;
+  background: #c0622e;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+
+/* ── Map ── */
+.map-section {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem;
+}
+.map-section h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: var(--slate);
+}
+#map {
+  height: 500px;
+  border-radius: 8px;
+  border: 1px solid #e0dcd8;
+}
+
+/* ── Climb Grid ── */
+.latest-climbs, .climb-list {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+.latest-climbs h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  color: var(--slate);
+}
+.climb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+.climb-card {
+  background: white;
+  border-radius: 8px;
+  border: 1px solid #e0dcd8;
+  transition: box-shadow 0.2s;
+}
+.climb-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.climb-card a { color: inherit; }
+.climb-card a:hover { text-decoration: none; }
+.climb-card-content { padding: 1.2rem 1.4rem; }
+.climb-card h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.2rem;
+  margin-bottom: 0.4rem;
+  color: var(--slate);
+}
+.climb-meta {
+  font-size: 0.8rem;
+  color: var(--text-light);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+}
+.climb-meta .grade {
+  font-weight: 600;
+}
+.excerpt {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+/* ── Home two-column layout ── */
+.home-two-col {
+  max-width: var(--wide-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+  display: flex;
+  flex-direction: row;
+  gap: 3rem;
+  align-items: flex-start;
+}
+.about-col {
+  flex: 0 0 37%;
+  min-width: 0;
+}
+.recent-climbs-col {
+  flex: 1 1 0;
+  min-width: 0;
+}
+.about-col h2,
+.recent-climbs-col h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.6rem;
+  margin-bottom: 1.5rem;
+  color: var(--slate);
+}
+.about-photo {
+  width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+.about-text p {
+  color: var(--text-light);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+.recent-climbs-col .climb-grid {
+  grid-template-columns: 1fr;
+}
+
+/* ── Post ── */
+.climb-post {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+.post-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0dcd8;
+}
+.post-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2.2rem;
+  color: var(--slate);
+  margin-bottom: 0.6rem;
+}
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+.post-meta .grade {
+  background: var(--burnt-orange);
+  color: white;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+  font-weight: 600;
+}
+.post-content h2, .post-content h3 {
+  font-family: 'Playfair Display', serif;
+  color: var(--slate);
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+.post-content h2 { font-size: 1.5rem; }
+.post-content h3 { font-size: 1.2rem; }
+.post-content p {
+  margin-bottom: 1.2rem;
+}
+.post-content blockquote {
+  border-left: 3px solid var(--burnt-orange);
+  padding: 0.5rem 1.2rem;
+  margin: 1.5rem 0;
+  color: var(--text-light);
+  font-style: italic;
+}
+.post-content img {
+  margin: 1.5rem 0;
+}
+
+/* ── Post Nav ── */
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e0dcd8;
+  font-size: 0.9rem;
+}
+
+/* ── Page Header ── */
+.page-header {
+  background: var(--slate);
+  color: white;
+  text-align: center;
+  padding: 3rem 1.5rem;
+}
+.page-header h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 2rem;
+}
+
+/* ── Footer ── */
+.site-footer {
+  border-top: 1px solid #e0dcd8;
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.8rem;
+  color: var(--text-light);
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  html { font-size: 16px; }
+  .hero { padding: 3rem 1rem; }
+  .hero h1 { font-size: 2rem; }
+  #map { height: 350px; }
+  .climb-grid { grid-template-columns: 1fr; }
+  .home-two-col { flex-direction: column; gap: 2rem; }
+  .about-col { flex: none; width: 100%; }
+}

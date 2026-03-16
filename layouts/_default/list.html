@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="page-header">
+  <h1>{{ .Title | default "All Climbs" }}</h1>
+</section>
+<section class="climb-list">
+  <div class="climb-grid">
+    {{ range .Pages.ByDate.Reverse }}
+      {{- partial "climb-card.html" . -}}
+    {{ end }}
+  </div>
+</section>
+{{ end }}
