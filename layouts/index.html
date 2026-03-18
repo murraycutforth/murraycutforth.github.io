@@ -14,7 +14,6 @@
     </div>
   </div>
   <div class="recent-climbs-col">
-    <h2>Recent climbs</h2>
     <div class="climb-grid">
       {{ range (where .Site.RegularPages "Section" "climbs").ByDate.Reverse }}
         {{- partial "climb-card.html" . -}}
