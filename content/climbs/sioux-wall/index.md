@@ -11,7 +11,8 @@ excerpt: "I must have walked past the sheer face at least ten times before even 
 
 Sioux wall. Ben Nevis. I must have walked past the sheer face at least ten times on my way to other climbs in Coire na Ciste before even imagining that a winter route would find a way up there. But this time looking up with the confidence that we could get up it, the line was hard to miss.
 
-<!-- TODO: add photo - Will on the first pitch, the route takes the direct line up headwall above. Photo by Ryan Balharry -->
+![](pmz4755.jpg)
+*Will on the first pitch; the route takes the direct line up the headwall above. Photo by Ryan Balharry*
 
 *North face car park, 6 AM*: My alarm drags me awake to the sound of rain. Lying there in the darkness I feel totally unwilling to leave the damp tent. Psyche is low. I hear Will moving around and pretend to be asleep, while staring at the rain radar on my phone, seething. I don't get up until a precious hour has elapsed, and at least there's enough daylight to see the rain.
 
@@ -23,12 +24,16 @@ Sioux wall. Ben Nevis. I must have walked past the sheer face at least ten times
 
 *P3, 1:30 PM*: Will launches on this pitch. It starts nicely with some bridging and good gear off the belay, always appreciated. On a perfect belay ledge, I lean back and enjoy the show. The pitch culminates with a diagonal hand crack, perfectly sized so that the head of the axe will catch and then rip out unexpectedly. The crack yields to side by side axe torques, but moving through them while maintaining enough bite is tenuous. Without reliable cam placements, the gear is below foot level which is not quite as close as you'd like.. Anyway Will does the business on the pitch and I rush up on second awkwardly, dropping a wire on the way.
 
-<!-- TODO: add photo - Seconding P3. Photo by Ryan Balharry -->
-
 *P4, 3 PM*: The light is starting to fade as I take over the rack underneath the final section of crack. Will helpfully supplies a Greg Boswell quote which goes something like: "I love climbing in the dark- you can finally relax as there's no rush any more, you've got all the time in the world". The original winter finish to the route heads right at this point (and is slightly easier), but there's no question that the true line finishes up the crack, so up I go. The first part was probably a lot scarier for Will than for me. I stand up on the right, then matching on a flatty I stretch back left into the crack. Razor sharp new crampons skitter around directly above Will. My left arm cramps painfully every time I lock off and I'm suddenly not feeling so fresh. I plug a wire and hear the relief in Will's voice! Higher up the crack I find a sequence which feels intimately familiar after so much recent dry tooling at Ravelston: sidepull with axe, high foot placement, flag the other foot, lock off and scrape around for the next one. I reach an intermediate belay as darkness falls and press on, going straight for the top. Engrossed in the small pool of light in front of me, the final 25 metres is very different to the rest. Now the right side of vertical, but without positive hooks or gear. I spend literally hours searching for solid gear, moving from foothold to foothold. The final groove is blank and evil, and I'm perched in there for what feels like forever, unwilling to commit to the last tenuous move without better gear. Eventually I manage to hammer a Terrier half way in. Done!
 
 *Number 3 Gully Buttress, 7 PM*: Utterly drained, one of my favourite memories from the route was sitting on the massive flat area on top of the buttress, in total darkness with headtorch off, watching clouds swirl in and out of the Coire. I have lost my appetite for any more leading and thankfully Will has enough psyche to run up the final couple of pitches of number 3 gully buttress to bring us to the plateau. The walk back down to the car park is exceptionally slow!
 
-<!-- TODO: add photo - On the top of the Ben. In the dark. Again. -->
-
 Looking back now, I'm not sure if it was even that difficult. But I certainly won't be jumping on any grade IXs soon!
+
+---
+
+![](pmz4805.jpg)
+*Seconding P3. Photo by Ryan Balharry*
+
+![](img_0792.jpg)
+*On the top of the Ben. In the dark. Again.*

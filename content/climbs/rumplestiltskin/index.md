@@ -15,11 +15,8 @@ I wanted to put this short post up to rave about the quality of a little-known r
 
 The deal with this climb is not the history (although note to self- look up who did the FA) or the line, but rather that it packs in a continuous set of brilliantly-fun climbing sequences throughout all three pitches. You have the "ramp grovel" into "perfect corner" into the "arete layback" into "the crack" on P1, the "up-and-right wall" into the "crucifix to stein pull" into the "fist crack of doom" on P2, and then the "bulges" into the "flake-or-offwidth?" on P3 before the crag starts to ease off..
 
-<!-- TODO: add photo - Rob following "the crack" on the top of P1 -->
-
-<!-- TODO: add photo - Across the slab to Dave, Sam and Helen on Time Traveller -->
-
-<!-- TODO: add photo - The silhouette of either me or Rob pulling on to the slab on P2 -->
+![](img_0922.jpg)
+*Rob following "the crack" on the top of P1*
 
 I'll attempt to sum up the stars which this route deserves:
 
@@ -30,3 +27,13 @@ I'll attempt to sum up the stars which this route deserves:
 * One star for being scary-safe, i.e. having a couple of scary moments where ultimately you are safe, while most of the route is brilliantly protected on good rock.
 
 It does have one flaw, which is that the line is quite tricky to spot from underneath, but Rob has added some helpful directions on UKC. Last of all, I'll just apologise for overhyping this route to the point that anyone who reads this and then climbs it is now bound to be disappointed..
+
+---
+
+![](img_0919.jpg)
+*Across the slab to Dave, Sam and Helen on Time Traveller*
+
+![](img_0933.jpg)
+*The silhouette of either me or Rob pulling on to the slab on P2*
+
+![](whatsapp-image-2023-03-06-at-12.37.101.jpeg)

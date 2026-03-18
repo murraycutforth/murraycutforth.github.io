@@ -15,7 +15,7 @@ The Godfather has some of the richest history of all modern winter climbs in Sco
 
 Martin Moran lived around the corner and had eyed up the line for years around the turn of the millennium. While the top half of the route is a huge and obvious corner, the bottom half of the giant's wall is just a series of overhanging blank walls. The crag is wet and vegetated despite the angle, so this is winter-only terrain. In 2002 he teamed up with Paul Tattershall to finally give it a shot. After a series of testing pitches they arrived underneath the final corner in the dark. From Martin's fantastic account in Guy Robertson's book, Great Mountain Crags of Scotland:
 
-<!-- TODO: add photo here -->
+![](img_0995.jpg)
 
 *Looking up, I realised that what had started as a grade VI and had graduated to a sustained grade VII was now moving into unknown and even harder territory. The first section of the corner was desperate. Luckily, I was able to find a crack on its left to climb, but the angle still bulged and had I not found a good thread runner my courage might have failed. The pitch debouched onto a lovely little ledge where I thought I could sit snug as Paul led through. Paul arrived puffing, and having already led two big pitches, declared himself too knackered to lead on.*
 
@@ -47,8 +47,6 @@ The Godfather gained instant classic status, with the epic story of the first as
 
 At this point Martin Moran dubbed the thank-god turf blobs at the top of the crux the "Benson fringe", and the legend of the godfather carried on growing. It saw intermittent ascents through the 2010s, and was definitely a way off the cutting edge at this point but was still a long hard route, far far away in the north west.
 
-<!-- TODO: add photo here -->
-
 Back to mine and Rob's story, and with such an awesome reputation we hadn't really considered it until a flurry of grade VIIIs started succumbing to our bevel-less front points. After an amazing day out on Hung Drawn and Quartered on Skye on the Wednesday, I squeezed in a day of work / recovery in fort William on Thursday and we set the plan in motion for the Friday. The freezing level was set to stay pinned down to sea level until the weekend and we reasoned that Beinn Bhan was close enough to Skye to surely have the same perfect conditions.
 
 I drove up to Kyle to meet Rob with Orchestra of Wolves by Gallows blaring out of the i20, and those songs will always evoke the fear / anticipation / excitement of that moment, driving up Glen Shiel after work to try the godfather. The next morning we crunched our way across the moor in the pre-dawn. There was evidently a hard freeze down to sea level and our optimism rose a notch. It was my first time on Beinn Bhan, and first time seeing each massive coire unfold one by one. We finally reached Coire nan Fhamair in full daylight and I'll be honest- it looked black. We stopped in the base of the coire for a discussion, different options washing around. I think we were both a bit deflated at that point, as doubting the conditions isn't how you want to climb mega routes.
@@ -57,14 +55,24 @@ In this paragraph I'm going to write a boring, niche, but honest and open discus
 
 I started up the first pitch, and we may well have been in the wrong place since there's no defined line low down, but the first five metres to a ledge system were fairly unpleasant. I was brushing powder off compact slabby rock, insecure and badly protected. I had a distinct thought of how stupid it would look to break an ankle falling off the first few metres of the godfather, a 240m route. Luckily my vision didn't come to pass and the climbing became much steeper and safer. Rob then quested around on the big second pitch, stopping just below the huge terrace due to rope drag. I wasn't enjoying the route so far, the first two pitches had just been too dry and scratchy. The turf hadn't really materialised and I was ready to bail. Rob basically convinced me to get us up to the terrace to reassess. Thank god he did. It was dripping with frozen turf and snow, and suddenly it seemed to be back on. I knew we had to find a way through a short but extremely vertical rock band bisecting the terrace, and after 40m of traversing I chose my spot. With so much rope in the system I was well aware that falling off the band would put me straight back on the terrace on stretch, but it looked like a soft landing. At the top of a boulder problem, at full stretch, both axes gave the unmistakable feeling of being buried to the hilt in perfect turf, and the first pull up into mantleshelf move appeared as I squirmed over the top.
 
-<!-- TODO: add photo - "Looking East-ish from the top of the first pitch, towards Glen Carron" -->
-
 The climbing was consistently amazing from here onwards. I was feeling really psyched at this point, and led the "mantleshelf" pitch off the ledge. This had been on our minds since reading Uisdean Hawthorne's description as pokey, but each successive steep mantleshelf kept rolling by. It's somehow the only pitch I've ever climbed which is covered in stand up ledges but still overhangs from top to bottom. Rob then took over and took us up the first godfather corner pitch which, you guessed it, was steep!
-
-<!-- TODO: add photos - looking back along the terrace, climbing scenes, looking down the "mantleshelf" pitch -->
 
 It was just the upper corner pitch left, and looking up in the rapidly fading daylight I didn't think it looked too bad. Something about the godfather continually tricks you into thinking it's less steep than it really is. My arms were starting to wilt from the relentless pull ups onto turf ledges however. A sneaky hand jam got over the lower crux roof, and the head torch came on just in time for the amazing moment of committing to the final series of hooks, walloping an axe into the benson fringe and flopping over the belay ledge like a beached whale. Rob took us to the top as the crag finally gifted an easy pitch, where we could relax at last. These post route moments are some of my favourite parts of the whole thing, particularly when it's just the two of us on top of a cold silent hill somewhere remote, ideally not in a raging blizzard. This was a good one, with a clear sky over Applecross.
 
-<!-- TODO: add photo - "Rob below the final part of the Godfather corner. The benson fringe is the turf in the bottom left." -->
+![](img_1008.jpg)
+*Rob below the final part of the Godfather corner. The benson fringe is the turf in the bottom left.*
 
 I'm writing from California now, and the godfather did end up being my final winter route for the time being. I honestly can't think of a better way to finish a really defining and at times all consuming focal point of my life in Scotland. I definitely have to mention Will, Rob, and Iain for making it all happen, that chance meeting on Creag Meagaidh five years ago created a lot of good times. I'm sure I'll be back soon enough once I've done a bit of science over here!
+
+---
+
+![](110516.jpeg)
+
+![](img_0980.jpg)
+*Looking East-ish from the top of the first pitch, towards Glen Carron*
+
+![](img_0985.jpg)
+
+![](img_0991.jpg)
+
+![](img_0994.jpg)

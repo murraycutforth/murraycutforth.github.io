@@ -11,7 +11,8 @@ excerpt: "Reflecting on the first few months of the Scottish winter season."
 
 *30th November 2019, Coire an Lochan, Cairngorms, Scotland*
 
-<!-- TODO: add animated gif - "Shaking out on a wobbly hook like it's totally bomber" -->
+![](shakeout.gif)
+*Shaking out on a wobbly hook like it's totally bomber*
 
 Reflecting on the first few months of the scottish winter season in front of the fire in my parent's house, these two routes spring straight to mind. Ventriloquist was a desperate no-holds-barred fight, with the odds of success ebbing and flowing on every move. I was buzzing for days afterwards, but at the same time that kind of effort empties the tank too much to be sustainable more than a handful of times a season. Auricle on the other hand was a good notch more comfortable, classic type I fun.
 
@@ -19,11 +20,7 @@ On Friday night I met up with Iain, one of the keen beans from the Glasgow uni c
 
 As it turned out, after Iain ran up the fun warm up pitch the crux of Auricle was occupied, and without considering the full consequences of my words I breezily suggested that I take a look up Ventriloquist around the corner instead. Those consequences were immediately apparent as I committed to the initial protectionless boulder problem. With nothing else to do, Iain stepped back and started videoing the potential deck out. Fortunately I avoided becoming a youtube star and some thin layback hooks got me stood up on the block 2 or 3 metres up, below the obvious gently overhanging wide crack. The route is described as being well-protected in the guidebook, but on the day it was anything but. I only managed to place the bare minimum of gear which I felt was sufficient, if there had been any less I would have backed off it. In drier conditions it would eat as many big cams as you can carry. Committing to thin hooks in the crack, I slowly worked up to a point around 2 metres below the top. But at this point the hooks ended, and there was nothing but granite slopers and an ice-chocked offwidth. I cranked as securely as possible into a wobbly hook, and shook out. Left, right, left, right. I placed a reasonable mega-nut, and shook out some more. I whispered "winter climbing is all just active recovery" to myself over and over again as the pump threatened to go terminal, and tried to convince myself that this tiny hook I was shaking off was solid. In the end it was pretty liberating to utterly commit to taking a flyer (not something I've experienced in winter), reach to a poor hook in some frozen gravel in the back of the crack, and then crank out a huge lock off to hook the slopers on the lip. The fight wasn't over by a long way as the top out is pretty grim, but I won't give all the details away..
 
-<!-- TODO: add photos - "The second pitch of Ventriloquist" -->
-
 Iain found a more elegant can-opener solution to the crux move, and then led us on an extreme ledge shuffle up two more short pitches of around V or VI to the top. Sadly we ended up back at the car after dark, and so poor Iain couldn't go for his post climbing swim in Loch Morlich (he actually bought his trunks and towel on a winter climbing weekend!). We ran up The Third Man and Deep Throat the next day to complete a pretty dreamy norries weekend.
-
-<!-- TODO: add photo - "Iain near the top of Ventriloquist" -->
 
 *15th December 2019*
 
@@ -33,4 +30,17 @@ As before it's all about the second and third pitches. The second pitch is a jui
 
 For the first time this season the wind really turned on higher up, and we got the full value experience on the top pitch. I had almost forgotten the joy of smashing rime out of the way only for it to immediately sand-blast your face in revenge..
 
-<!-- TODO: add photo - "Yet another picture of my bum – this time on the third pitch of Auricle" -->
+![](81442377_502982540423021_3799409717369896960_n.jpg)
+*Yet another picture of my bum – this time on the third pitch of Auricle*
+
+---
+
+![](82117373_2543893162547681_397883528328511488_n.jpg)
+
+![](pb300638.jpg)
+*The second pitch of Ventriloquist*
+
+![](pb300643.jpg)
+
+![](dsc00408-1.jpg)
+*Iain near the top of Ventriloquist*

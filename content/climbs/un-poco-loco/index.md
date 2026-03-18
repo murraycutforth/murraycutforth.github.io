@@ -23,7 +23,7 @@ At this point, Iain's illness had shockingly not improved from standing still in
 
 The direct finish was everything I dream about in Scottish winter. There's no easy ground, but initially the moves are relatively secure. After stepping off the top of a column, things got progressively thinner and thinner. I ground to a halt near the top of the corner system. Three times I locked off my top axe and groped blindly around the groove above for the next hook, and every time I came out empty handed with my left bicep on fire. It was taking longer and longer to recover on the marginal rest below this point, and I felt like there were only a few attempts left. Working my feet up as high as I could get them, this time the axe dropped into a sinker hook in a completely unexpected position. I matched the axe and spanned out at full stretch to the right, just able to find a hook in the back of a parallel corner system. As if by design, there's a single tiny slot on the blank slab between the two corner systems at foot height. Standing up into this leaves you in the crucifix position, spread across the rock between the two corners. Heart in mouth, I dynamically swapped the right front point for the left front point in the tiny foot slot, and then dropped down onto the right-hand axe, safely in the final corner system leading behind the arch.
 
-<!-- TODO: add photo - from Ed on flake route RH, as I stepped off the belay -->
+![](93644327_2281877482110432_4652821480021688320_n.jpg)
 
 The arch. Thousands of tons of rock held in place solely by the geometry of some ancient rockfall, hanging over the face. Back-and-footing up the hanging chimney behind it, I was trying not to push outwards too hard! One final squirm and I popped out onto the big ledge on top, where Ed and Felicity were engaged with Raeburn's chimney (it's deceptively desperate). Sweaty and content, I chatted to Ed as Will started up the pitch. As per usual, during the big lead I had entered a parallel space-time dimension where time passes at a massively accelerated rate. What had felt like minutes in my frame was actually almost two and a half hours.
 
@@ -32,3 +32,7 @@ We took the easy option at this point and abbed off from the in-situ above the a
 ## P.S.
 
 At the same time as all this, one of the most heroic episodes in Scottish winter climbing history had been going on just around the corner on the same cliff. Relying only on his extremely strongly-held belief that winter climbing is just not that hard, Luke had jumped on a niche VII 7 called critical mass, rarely (if ever) climbed since the first ascent. With infinite patience his brother Paul belayed him on a mammoth four hour lead as he forced his way up the first (and probably the crux) pitch. After their late start driving up from Edinburgh the same morning they decided to call it a day, but a legendary effort nonetheless for his second Scottish winter route ever. There's a lot that being a trad weapon can't compensate for, but winter climbing is apparently not one of them.
+
+---
+
+![](img_20200118_140440.jpg)
