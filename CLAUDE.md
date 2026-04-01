@@ -9,6 +9,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 There are no Node.js dependencies, linters, or test suites — this is a pure Hugo static site.
 
+> **Note:** `git push` fails with SIGPIPE when run through Claude Code's shell. Always ask the user to run `git push origin main` themselves in their terminal.
+
 ## Architecture
 
 **Hugo static site** with custom layouts (no theme). Deployed to GitHub Pages via `.github/workflows/hugo.yaml` on push to `main`.
