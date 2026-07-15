@@ -1,6 +1,6 @@
 ---
 title: "Dark Angel"
-date: 2026-03-31
+date: 2026-01-31
 location: "Church Door Buttress, Bidean nam Bian"
 grade: "VIII, 8"
 latitude: 56.64303008129997
