@@ -9,7 +9,7 @@ partner: "Nathan, Hannah"
 excerpt: "The ben at its very best."
 ---
 
-![Racking up below the Orion Face at first light](IMG_6265.jpg)
+![](IMG_6265.jpg)
 
 **P1:** We arrive 5 minutes behind another team, classic. Good crevasse stance to rack up on, despite a few ominous cracks disappearing into the snowpack. Nathan leads us up a thin slab.
 
@@ -27,9 +27,9 @@ excerpt: "The ben at its very best."
 
 **P8:** Nathan has constructed a snow anchor, so Hannah and I lead through to the top. Another classic simul lead. Simul leading is too much fun to have any danger associated with it, similarly to glissading.
 
-![The cost of setting off before the pitch above was clear](IMG_6279.jpg)
-![Climbing away from the Orion Direct crowds, cloud still clinging to the face](IMG_6271.jpg)
-![Nathan and Hannah at the belay below the groove, icicles hanging overhead](IMG_6284.jpg)
-![Up the steep curtain on the real deal pitch](IMG_6288.jpg)
-![The 40 foot corner on North East Buttress, no pushover today](IMG_6307.JPG)
-![Topping out onto North East Buttress in the sun](IMG_6296.jpg)
+![](IMG_6279.jpg)
+![](IMG_6271.jpg)
+![](IMG_6284.jpg)
+![](IMG_6288.jpg)
+![](IMG_6307.JPG)
+![](IMG_6296.jpg)
